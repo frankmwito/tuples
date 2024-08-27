@@ -1,0 +1,1 @@
+# given a tuple of strings concatenate all the strings and print the result
