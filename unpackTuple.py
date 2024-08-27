@@ -1,0 +1,1 @@
+# unpack a tuple into several variables and print each variable
